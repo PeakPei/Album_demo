@@ -4,5 +4,5 @@
 
 ![images](https://github.com/tongliping0709/Album_demo/blob/master/images/ablum1.png)
 
-![images](https://github.com/tongliping0709/Album_demo/blob/master/images/bulm2.png)
+![images](https://github.com/tongliping0709/Album_demo/blob/master/images/buml2.png)
 
