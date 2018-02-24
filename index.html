@@ -4,9 +4,10 @@
         <title>jquery实现的吉他曲谱相册代码</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
         <link rel="stylesheet" href="css/lanrenzhijia.css" type="text/css" media="screen"/>
-		
+				<script src="js/Note_this_400.font.js" type="text/javascript"></script>
 		<script src="js/cufon-yui.js" type="text/javascript"></script>
-		<script src="js/Note_this_400.font.js" type="text/javascript"></script>
+	    <script src="js/jquery.transform-0.8.0.min.js"></script>
+
 		<script type="text/javascript">
 			Cufon.replace('span');
 			Cufon.replace('h1', {
@@ -117,7 +118,7 @@
         <!-- The JavaScript -->
 		<script src="js/jquery.transform-0.8.0.min.js"></script>
         <script type="text/javascript">
-            $(window).load(function(){
+            $(function(){
 				var ie 			= false;
 				if ($.browser.msie) {
 					ie = true;
